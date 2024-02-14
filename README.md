@@ -34,4 +34,5 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riqua-end&layout=compact)](https://github.com/riqua-end/github-readme-stats)
+![riqua-end's GitHub stats](https://github-readme-stats.vercel.app/api?username=riqua-end&show_icons=true&bg_color=00000000)
 </div>
